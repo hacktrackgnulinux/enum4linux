@@ -135,7 +135,7 @@ my @nbt_info = (
 ####################### end of nbtscan-derrived code ############################
 
 my $usage =<<USAGE;
-enum4linux v$VERSION \(http://labs.portcullis.co.uk/application/enum4linux/\)
+enum4linux v$VERSION \(https://labs.portcullis.co.uk/tools/enum4linux/\)
 Copyright \(C\) 2011 Mark Lowe \(mrl\@portcullis-security.com\)
 
 Simple wrapper around the tools in the samba package to provide similar 
