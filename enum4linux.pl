@@ -142,7 +142,7 @@ Simple wrapper around the tools in the samba package to provide similar
 functionality to enum.exe (formerly from www.bindview.com).  Some additional 
 features such as RID cycling have also been added for convenience.
 
-Usage: $0 [options] ip
+Usage: enum4linux [options] ip
 
 Options are (like "enum"):
     -U        get userlist
