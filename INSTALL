@@ -1,0 +1,3 @@
+chmod 775 enum4linux.pl
+ln -sv /pentest/01/enum4linux/enum4linux.pl /usr/bin/enum4linux.pl
+ln -sv /pentest/01/enum4linux/enum4linux.pl /usr/bin/enum4linux
